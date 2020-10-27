@@ -1,0 +1,211 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Number
+1_hand,hand,1277,HAND,1
+2_left,left,244,LEFT,2
+3_right,right,1019,RIGHT,3
+4_legfoot,leg/foot,2098,FOOT OR LEG,4
+5_towalk,to walk,1443,WALK,5
+6_roadpath,road/path,2457,PATH OR ROAD,6
+7_tocome,to come,1446,COME,7
+8_toturn,to turn,1588,TURN,8
+9_toswim,to swim,1439,SWIM,9
+10_dirty,dirty,1230,DIRTY,10
+11_dust,dust,2,DUST,11
+12_skin,skin,763,SKIN,12
+13_back,back,1291,BACK,13
+14_belly,belly,1251,BELLY,14
+15_bone,bone,1394,BONE,15
+16_intestines,intestines,1991,INTESTINES,16
+17_liver,liver,1224,LIVER,17
+18_breast,breast,1402,BREAST,18
+19_shoulder,shoulder,1482,SHOULDER,19
+20_toknowbeknowledgeable,"to know, be knowledgeable",1410,KNOW (SOMETHING),20
+21_tothink,to think,2271,THINK,21
+22_tofear,to fear,1419,FEAR (BE AFRAID),22
+23_blood,blood,946,BLOOD,23
+24_head,head,1256,HEAD,24
+25_neck,neck,1333,NECK,25
+26_hair,hair,1040,HAIR,26
+27_nose,nose,1221,NOSE,27
+28_tobreathe,to breathe,1407,BREATHE,28
+29_tosniffsmell,"to sniff, smell",1586,SMELL (PERCEIVE),29
+30_mouth,mouth,674,MOUTH,30
+31_tooth,tooth,1380,TOOTH,31
+32_tongue,tongue,1205,TONGUE,32
+33_tolaugh,to laugh,1355,LAUGH,33
+34_tocry,to cry,1839,CRY,34
+35_tovomit,to vomit,1278,VOMIT,35
+36_tospit,to spit,1440,SPIT,36
+37_toeat,to eat,1336,EAT,37
+38_tochew,to chew,321,CHEW,38
+39_tocook,to cook,1100,COOK (SOMETHING),39
+40_todrink,to drink,1401,DRINK,40
+41_tobite,to bite,1403,BITE,41
+42_tosuck,to suck,1421,SUCK,42
+43_ear,ear,1247,EAR,43
+44_tohear,to hear,1408,HEAR,44
+45_eye,eye,1248,EYE,45
+46_tosee,to see,1409,SEE,46
+47_toyawn,to yawn,1028,YAWN,47
+48_tosleep,to sleep,1585,SLEEP,48
+49_toliedown,to lie down,215,LIE DOWN,49
+50_todream,to dream,1920,DREAM (SOMETHING),50
+51_tosit,to sit,1416,SIT,51
+52_tostand,to stand,1442,STAND,52
+53_personhumanbeing,person/human being,683,PERSON,53
+54_manmale,man/male,2106,MALE PERSON,54
+55_womanfemale,woman/female,2105,FEMALE PERSON,55
+56_child,child,2099,CHILD,56
+57_husband,husband,1200,HUSBAND,57
+58_wife,wife,1199,WIFE,58
+59_mother,mother,1216,MOTHER,59
+60_father,father,1217,FATHER,60
+61_house,house,1252,HOUSE,61
+62_thatchroof,thatch/roof,2100,THATCH OR ROOF,62
+63_name,name,1405,NAME,63
+64_tosay,to say,1458,SAY,64
+65_rope,rope,1218,ROPE,65
+66_totieupfasten,"to tie up, fasten",1094,FASTEN,66
+67_tosew,to sew,1457,SEW,67
+68_needle,needle,1382,NEEDLE (FOR SEWING),68
+69_tohunt,to hunt,1435,HUNT,69
+70_toshoot,to shoot,1172,SHOOT,70
+71_tostabpierce,"to stab, pierce",1434,STAB,71
+72_tohit,to hit,1433,HIT,72
+73_tosteal,to steal,713,STEAL,73
+74_tokill,to kill,1417,KILL,74
+75_todiebedead,"to die, be dead",2101,BE DEAD OR DIE,75
+76_tolivebealive,"to live, be alive",1422,BE ALIVE,76
+77_toscratch,to scratch,1436,SCRATCH,77
+78_tocuthack,"to cut, hack",1432,CUT,78
+79_stickwood,stick/wood,1295,STICK,79
+80_tosplit,to split,1437,SPLIT,80
+81_sharp,sharp,1396,SHARP,81
+82_dullblunt,"dull, blunt",379,BLUNT,82
+83_towork,to work,1086,WORK (ACTIVITY),83
+84_toplant,to plant,1486,PLANT (SOMETHING),84
+85_tochoose,to choose,1750,CHOOSE,85
+86_togrow,to grow,479,GROW,86
+87_toswell,to swell,1573,SWELL,87
+88_tosqueeze,to squeeze,1414,SQUEEZE,88
+89_tohold,to hold,1448,HOLD,89
+90_todig,to dig,1418,DIG,90
+91_tobuy,to buy,1869,BUY,91
+92_toopenuncover,"to open, uncover",1156,OPEN,92
+93_topoundbeat,"to pound, beat",354,POUND,93
+94_tothrow,to throw,1456,THROW,94
+95_tofall,to fall,1280,FALL,95
+96_dog,dog,2009,DOG,96
+97_bird,bird,937,BIRD,97
+98_egg,egg,744,EGG,98
+99_feather,feather,1201,FEATHER,99
+100_wing,wing,1257,WING,100
+101_tofly,to fly,1441,FLY (MOVE THROUGH AIR),101
+102_rat,rat,1490,RAT,102
+103_meatflesh,meat/flesh,2615,FLESH OR MEAT,103
+104_fatgrease,fat/grease,323,FAT (ORGANIC SUBSTANCE),104
+105_tail,tail,1220,TAIL,105
+106_snake,snake,730,SNAKE,106
+107_wormearthworm,worm (earthworm),1219,WORM,107
+108_louse,louse,1392,LOUSE,108
+109_mosquito,mosquito,1509,MOSQUITO,109
+110_spider,spider,843,SPIDER,110
+111_fish,fish,227,FISH,111
+112_rotten,rotten,1728,ROTTEN,112
+113_branch,branch,1531,BRANCH,113
+114_leaf,leaf,628,LEAF,114
+115_root,root,670,ROOT,115
+116_flower,flower,239,FLOWER,116
+117_fruit,fruit,1507,FRUIT,117
+118_grass,grass,606,GRASS,118
+119_earthsoil,earth/soil,1228,EARTH (SOIL),119
+120_stone,stone,857,STONE,120
+121_sand,sand,671,SAND,121
+122_water,water,948,WATER,122
+123_toflow,to flow,2003,FLOW,123
+124_sea,sea,1474,SEA,124
+125_salt,salt,1274,SALT,125
+126_lake,lake,624,LAKE,126
+127_woodsforest,woods/forest,420,FOREST,127
+128_sky,sky,1732,SKY,128
+129_moon,moon,1313,MOON,129
+130_star,star,1430,STAR,130
+131_cloud,cloud,1489,CLOUD,131
+132_fog,fog,249,FOG,132
+133_rain,rain,658,RAIN (PRECIPITATION),133
+134_thunder,thunder,1150,THUNDER,134
+135_lightning,lightning,1654,LIGHTNING,135
+136_wind,wind,960,WIND,136
+137_toblow,to blow,175,BLOW (OF WIND),137
+138_warm,warm,1232,WARM,138
+139_cold,cold,1287,COLD,139
+140_dry,dry,1398,DRY,140
+141_wet,wet,1726,WET,141
+142_heavy,heavy,1210,HEAVY,142
+143_fire,fire,221,FIRE,143
+144_toburn,to burn,2102,BURN,144
+145_smoke,smoke,778,SMOKE (EXHAUST),145
+146_ashes,ashes,646,ASH,146
+147_black,black,163,BLACK,147
+148_white,white,1335,WHITE,148
+149_red,red,156,RED,149
+150_yellow,yellow,1424,YELLOW,150
+151_green,green,1425,GREEN,151
+152_small,small,1246,SMALL,152
+153_big,big,1202,BIG,153
+154_short,short,1645,SHORT,154
+155_long,long,1203,LONG,155
+156_thin,thin,2308,THIN,156
+157_thick,thick,1244,THICK,157
+158_narrow,narrow,1267,NARROW,158
+159_wide,wide,1243,WIDE,159
+160_painfulsick,"painful, sick",2103,PAINFUL OR SICK,160
+161_shyashamed,"shy, ashamed",3805,SHY OR ASHAMED,161
+162_old,old,1229,OLD,162
+163_new,new,1231,NEW,163
+164_good,good,1035,GOOD,164
+165_badevil,"bad, evil",3764,BAD OR EVIL,165
+166_correcttrue,"correct, true",1725,CORRECT (RIGHT),166
+167_night,night,1233,NIGHT,167
+168_day,day,1225,DAY (NOT NIGHT),168
+169_year,year,1226,YEAR,169
+170_when,when?,1238,WHEN,170
+171_tohide,to hide,2486,HIDE,171
+172_toclimb,to climb,1102,CLIMB,172
+173_at,at,1461,AT,173
+174_ininside,"in, inside",1460,IN,174
+175_above,above,1741,ABOVE,175
+176_below,below,1485,BELOW OR UNDER,176
+177_this,this,1214,THIS,177
+178_that,that,78,THAT,178
+179_near,near,1942,NEAR,179
+180_far,far,1406,FAR,180
+181_where,where?,1237,WHERE,181
+182_i,I,1209,I,182
+183_thou,thou,1215,THOU,183
+184_heshe,he/she,2642,HE OR SHE,184
+185_we,we,1212,WE,185
+186_you,you,1213,YOU,186
+187_they,they,817,THEY,187
+188_what,what?,1236,WHAT,188
+189_who,who?,1235,WHO,189
+190_other,other,197,OTHER,190
+191_all,all,98,ALL,191
+192_and,and,1577,AND,192
+193_if,if,1459,IF,193
+194_how,how?,1239,HOW,194
+195_nonot,"no, not",2279,NO OR NOT,195
+196_tocount,to count,1420,COUNT,196
+197_one,One,1493,ONE,197
+198_two,Two,1498,TWO,198
+199_three,Three,492,THREE,199
+200_four,Four,1500,FOUR,200
+201_five,Five,493,FIVE,201
+202_six,Six,1703,SIX,202
+203_seven,Seven,1704,SEVEN,203
+204_eight,Eight,1705,EIGHT,204
+205_nine,Nine,1483,NINE,205
+206_ten,Ten,1515,TEN,206
+207_twenty,Twenty,1710,TWENTY,207
+208_fifty,Fifty,1717,FIFTY,208
+209_onehundred,One Hundred,1634,HUNDRED,209
+210_onethousand,One Thousand,1843,THOUSAND,210
