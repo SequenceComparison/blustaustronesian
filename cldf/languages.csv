@@ -1,21 +1,21 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family
-maloh,Maloh,emba1238,,,,,,
-iban,Iban,iban1264,,,,,,
-wuna,Wuna,muna1247,,,,,,
-baree,Bare'e,pamo1252,,,,,,
-tetum,Tetum,tetu1246,,,,,,
-merinamalagasy,Merina_Malagasy,plat1254,,,,,,
-moken,Moken,moke1242,,,,,,
-thao,Thao,thao1240,,,,,,
-nias,Nias,nias1242,,,,,,
-hanunoo,Hanunoo,hanu1241,,,,,,
-singhi,Singhi,baub1235,,,,,,
-palauan,Palauan,pala1344,,,,,,
-tunjung,Tunjung,tunj1244,,,,,,
-berawanlongterawan,Berawan_Long_Terawan,west2564,,,,,,
-centralamis,Central Amis,amis1246,,,,,,
-tsou,Tsou,tsou1248,,,,,,
-banoni,Banoni,bann1247,,,,,,
-chamorro,Chamorro,cham1312,,,,,,
-banggi,Banggi,bong1289,,,,,,
-mailu,Mailu,mail1248,,,,,,
+maloh,Maloh,emba1238,Embaloh,emb,Papunesia,1.3156,112.63,Austronesian
+iban,Iban,iban1264,Iban,iba,Papunesia,2.09041,112.934,Austronesian
+wuna,Wuna,muna1247,Muna,mnb,Papunesia,-5.40419,122.541,Austronesian
+baree,Bare'e,pamo1252,Pamona,pmf,Papunesia,-1.62663,121.268,Austronesian
+tetum,Tetum,tetu1246,Tetun Dili,tdt,Papunesia,-8.58405,125.583,Austronesian
+merinamalagasy,Merina_Malagasy,plat1254,Plateau Malagasy,plt,Africa,-19.5907,47.1211,Austronesian
+moken,Moken,moke1242,Moken,mwt,Eurasia,10.1474,98.6765,Austronesian
+thao,Thao,thao1240,Thao,ssf,Papunesia,23.8333,120.93,Austronesian
+nias,Nias,nias1242,Nias,nia,Papunesia,0.90691,97.4961,Austronesian
+hanunoo,Hanunoo,hanu1241,Hanunoo,hnn,Papunesia,12.4159,121.221,Austronesian
+singhi,Singhi,baub1235,Bau-Jagoi Bidayuh,sne,Papunesia,1.54467,109.985,Austronesian
+palauan,Palauan,pala1344,Palauan,pau,Papunesia,7.34138,134.476678,Austronesian
+tunjung,Tunjung,tunj1244,Tunjung,tjg,Papunesia,-0.29048,115.883,Austronesian
+berawanlongterawan,Berawan_Long_Terawan,west2564,West Berawan,zbw,Papunesia,3.9815,114.528,Austronesian
+centralamis,Central Amis,amis1246,Amis,ami,Papunesia,23.0917,121.348,Austronesian
+tsou,Tsou,tsou1248,Tsou,tsu,Papunesia,23.216,120.787,Austronesian
+banoni,Banoni,bann1247,Bannoni,bcm,Papunesia,-6.23061,155.128,Austronesian
+chamorro,Chamorro,cham1312,Chamorro,cha,Papunesia,13.438011,144.74474,Austronesian
+banggi,Banggi,bong1289,Bonggi,bdg,Papunesia,7.29249,117.174,Austronesian
+mailu,Mailu,mail1248,Mailu,mgu,Papunesia,-10.3657,149.521,Mailuan
