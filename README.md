@@ -29,8 +29,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 20
-- **Concepts:** 210
+- **Varieties:** 20 (linked to 20 different Glottocodes)
+- **Concepts:** 210 (linked to 210 different Concepticon concept sets)
 - **Lexemes:** 4,358
 - **Sources:** 1
 - **Synonymy:** 1.15
@@ -38,16 +38,16 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.61
 - **Invalid lexemes:** 0
 - **Tokens:** 22,291
-- **Segments:** 60 (0 BIPA errors, 0 CTLS sound class errors, 60 CLTS modified)
+- **Segments:** 60 (0 BIPA errors, 0 CLTS sound class errors, 60 CLTS modified)
 - **Inventory size (avg):** 26.80
 
 # Contributors
 
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
-Johann-Mattis List | @LinguList | maintainer | Other
+Johann-Mattis List | @LinguList | maintainer | Editor
 Robert Blust | | data collection | Author
-Simon Greenhill | | data collection | Author 
+Simon Greenhill | | data collection | Author
 
 
 
