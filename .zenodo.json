@@ -25,7 +25,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Greenhill, SJ; Blust, R and Gray, RD (2008): he Austronesian Basic Vocabulary Database: From bioinformatics to lexomics. Evolutionary Bioinformatics. 4. 271-283.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Greenhill, SJ; Blust, R and Gray, RD (2008): The Austronesian Basic Vocabulary Database: From bioinformatics to lexomics. Evolutionary Bioinformatics. 4. 271-283.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

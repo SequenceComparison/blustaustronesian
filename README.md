@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Greenhill, SJ; Blust, R and Gray, RD (2008): he Austronesian Basic Vocabulary Database: From bioinformatics to lexomics. Evolutionary Bioinformatics. 4. 271-283.
+  > Greenhill, SJ; Blust, R and Gray, RD (2008): The Austronesian Basic Vocabulary Database: From bioinformatics to lexomics. Evolutionary Bioinformatics. 4. 271-283.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
