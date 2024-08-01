@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Greenhill, SJ; Blust, R and Gray, RD (2008): he Austronesian Basic Vocabulary Database: From bioinformatics to lexomics. Evolutionary Bioinformatics. 4. 271-283.",
+    "dc:bibliographicCitation": "Greenhill, SJ; Blust, R and Gray, RD (2008): The Austronesian Basic Vocabulary Database: From bioinformatics to lexomics. Evolutionary Bioinformatics. 4. 271-283.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Blust-2008-210"
@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/SequenceComparison/blustaustronesian",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0",
+            "dc:created": "v1.0-1-g259c5bb",
             "dc:title": "Repository"
         },
         {

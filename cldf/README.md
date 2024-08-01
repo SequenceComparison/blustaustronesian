@@ -8,13 +8,13 @@
 
 property | value
  --- | ---
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Greenhill, SJ; Blust, R and Gray, RD (2008): he Austronesian Basic Vocabulary Database: From bioinformatics to lexomics. Evolutionary Bioinformatics. 4. 271-283.
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Greenhill, SJ; Blust, R and Gray, RD (2008): The Austronesian Basic Vocabulary Database: From bioinformatics to lexomics. Evolutionary Bioinformatics. 4. 271-283.
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:format](http://purl.org/dc/terms/format) | <ol><li>http://concepticon.clld.org/contributions/Blust-2008-210</li></ol>
 [dc:identifier](http://purl.org/dc/terms/identifier) | https://github.com/SequenceComparison/SupplementaryMaterial/zipball/master
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/SequenceComparison/blustaustronesian
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/SequenceComparison/blustaustronesian/tree/v1.0">SequenceComparison/blustaustronesian v1.0</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.2.0">Concepticon v3.2.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/SequenceComparison/blustaustronesian/tree/259c5bb">SequenceComparison/blustaustronesian v1.0-1-g259c5bb</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v5.0">Glottolog v5.0</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v3.2.0">Concepticon v3.2.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.4</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | blustaustronesian
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
